@@ -1,6 +1,0 @@
-print("Ali")
-print("Danial")
-print ("Maya")
-print ("Reem")
-print ("Lana")
-print ("rania")
