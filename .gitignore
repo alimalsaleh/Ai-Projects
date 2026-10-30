@@ -1,0 +1,44 @@
+# ── Python ──
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# ── البيانات والنماذج (ضخمة - لا تدخل Git) ──
+# تجاهل كل الملفات داخل data/ و models/ لكن احتفظ بالمجلدات وملفات .gitkeep
+ai-model/data/**
+!ai-model/data/**/
+!ai-model/data/**/.gitkeep
+
+ai-model/models/**
+!ai-model/models/**/
+!ai-model/models/**/.gitkeep
+
+*.h5
+*.pt
+*.bin
+*.safetensors
+
+# ── البيئة والأسرار ──
+.env
+.env.local
+*.key
+
+# ── Frontend ──
+node_modules/
+dist/
+build/
+.vite/
+
+# ── IDE ──
+.vscode/
+.idea/
+
+# ── Logs ──
+*.log
+logs/
+
+# ── OS ──
+.DS_Store
+Thumbs.db
