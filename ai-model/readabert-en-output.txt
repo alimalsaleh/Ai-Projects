@@ -1,0 +1,26 @@
+Readabert Results
+
+Sentence: I have a small dog.
+Readability level: A1
+Confidence: 0.9974
+----------------------------------------
+Sentence: Last weekend, I visited my friend and we watched a movie.
+Readability level: A1
+Confidence: 0.9943
+----------------------------------------
+Sentence: Although I was tired, I decided to finish my homework before going to bed.
+Readability level: A2
+Confidence: 0.9858
+----------------------------------------
+Sentence: Many people believe that technology has improved communication, but it has also reduced face-to-face interaction.
+Readability level: B1
+Confidence: 0.9988
+----------------------------------------
+Sentence: Despite the significant benefits of globalization, its economic consequences remain unevenly distributed across different societies.
+Readability level: B1
+Confidence: 0.9847
+----------------------------------------
+Sentence: The pervasive influence of technological innovation necessitates a nuanced examination of its implications for individual autonomy, institutional accountability, and societal cohesion.
+Readability level: C1
+Confidence: 0.9967
+----------------------------------------

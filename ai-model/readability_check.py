@@ -43,7 +43,7 @@ for sentence in sentences:
 doc_level = max(levels)
 
 # حفظ النتيجة في ملف output.txt
-output_path = current_dir / "output.txt"
+output_path = current_dir / "readability-ab-output.txt"
 
 result = f"Document readability level: {doc_level}"
 
